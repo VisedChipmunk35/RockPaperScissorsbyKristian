@@ -48,8 +48,6 @@ while True :
        print ("Thanks for playing!")
        print ("Results : draws = ", draws, " wins = ", wins, " loses = ", loses, ".")
        break
-    elif play == "yes":
-        a = 1
-    else:
+    elif play != "yes":
         print("Invalid input. Try again...")
         break
