@@ -2,7 +2,7 @@
 ### Цел на проекта
 Целта на проекта е да се създаде игра на камък ножица хартия на езика python.
 ### Solutions
-Играта е създадена с цел забавление. В кода на играта са използвани функциите while, random, randit. 
+Играта е създадена с цел забавление. В кода на играта са използвани функциите while, random, randint. 
 ### [Source Code](rockpaperscissors.py)
 ### Screenshots
 ![image](https://github.com/VisedChipmunk35/RockPaperScissorsbyKristian/assets/56877779/8085dbcf-7779-4fb1-a3c1-9d601fa05770)
